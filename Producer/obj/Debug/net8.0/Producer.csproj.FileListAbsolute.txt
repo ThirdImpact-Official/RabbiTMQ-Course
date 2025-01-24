@@ -1,0 +1,13 @@
+C:\Users\quentin\RabbiTMQ-Course\Producer\bin\Debug\net8.0\Producer.deps.json
+C:\Users\quentin\RabbiTMQ-Course\Producer\bin\Debug\net8.0\Producer.dll
+C:\Users\quentin\RabbiTMQ-Course\Producer\bin\Debug\net8.0\Producer.pdb
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.csproj.AssemblyReference.cache
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.AssemblyInfoInputs.cache
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.AssemblyInfo.cs
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.sourcelink.json
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.dll
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\refint\Producer.dll
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\Producer.pdb
+C:\Users\quentin\RabbiTMQ-Course\Producer\obj\Debug\net8.0\ref\Producer.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProducerConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

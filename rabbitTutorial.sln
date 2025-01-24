@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{6673038F-793D-4C73-AB57-DFE59AEE03BC}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer.csproj", "{8191F035-358B-4987-937A-7EDAC8BC4EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{67A46B00-7848-4760-83DE-E964885C3048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiverConsole", "ReceiverConsole\ReceiverConsole.csproj", "{D368F137-2D3E-4197-BC38-495A2D058FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsole", "ProducerConsole\ProducerConsole.csproj", "{A642F90F-0CD9-48F9-B040-76651ACBF9FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitProducer", "RabbitProducer", "{5242EE27-6128-4D99-B9FA-62F7BAF258C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitReceiver", "RabbitReceiver", "{F657BE7D-7A0D-4A2E-BB14-22AEF070E928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8191F035-358B-4987-937A-7EDAC8BC4EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8191F035-358B-4987-937A-7EDAC8BC4EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8191F035-358B-4987-937A-7EDAC8BC4EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8191F035-358B-4987-937A-7EDAC8BC4EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A46B00-7848-4760-83DE-E964885C3048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A46B00-7848-4760-83DE-E964885C3048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A46B00-7848-4760-83DE-E964885C3048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A46B00-7848-4760-83DE-E964885C3048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D368F137-2D3E-4197-BC38-495A2D058FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D368F137-2D3E-4197-BC38-495A2D058FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D368F137-2D3E-4197-BC38-495A2D058FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D368F137-2D3E-4197-BC38-495A2D058FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A642F90F-0CD9-48F9-B040-76651ACBF9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A642F90F-0CD9-48F9-B040-76651ACBF9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A642F90F-0CD9-48F9-B040-76651ACBF9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A642F90F-0CD9-48F9-B040-76651ACBF9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8191F035-358B-4987-937A-7EDAC8BC4EC2} = {5242EE27-6128-4D99-B9FA-62F7BAF258C9}
+		{67A46B00-7848-4760-83DE-E964885C3048} = {F657BE7D-7A0D-4A2E-BB14-22AEF070E928}
+		{D368F137-2D3E-4197-BC38-495A2D058FEF} = {F657BE7D-7A0D-4A2E-BB14-22AEF070E928}
+		{A642F90F-0CD9-48F9-B040-76651ACBF9FA} = {5242EE27-6128-4D99-B9FA-62F7BAF258C9}
+		{5242EE27-6128-4D99-B9FA-62F7BAF258C9} = {6673038F-793D-4C73-AB57-DFE59AEE03BC}
+		{F657BE7D-7A0D-4A2E-BB14-22AEF070E928} = {6673038F-793D-4C73-AB57-DFE59AEE03BC}
+	EndGlobalSection
+EndGlobal

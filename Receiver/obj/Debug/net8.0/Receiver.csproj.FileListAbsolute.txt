@@ -1,0 +1,13 @@
+C:\Users\quentin\RabbiTMQ-Course\Receiver\bin\Debug\net8.0\Receiver.deps.json
+C:\Users\quentin\RabbiTMQ-Course\Receiver\bin\Debug\net8.0\Receiver.dll
+C:\Users\quentin\RabbiTMQ-Course\Receiver\bin\Debug\net8.0\Receiver.pdb
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.csproj.AssemblyReference.cache
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.AssemblyInfoInputs.cache
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.AssemblyInfo.cs
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.sourcelink.json
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.dll
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\refint\Receiver.dll
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\Receiver.pdb
+C:\Users\quentin\RabbiTMQ-Course\Receiver\obj\Debug\net8.0\ref\Receiver.dll

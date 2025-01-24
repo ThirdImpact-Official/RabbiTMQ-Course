@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin\\RabbiTMQ-Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A642F90F-0CD9-48F9-B040-76651ACBF9FA}|ProducerConsole\\ProducerConsole.csproj|c:\\users\\quentin\\rabbitmq-course\\producerconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A642F90F-0CD9-48F9-B040-76651ACBF9FA}|ProducerConsole\\ProducerConsole.csproj|solutionrelative:producerconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D368F137-2D3E-4197-BC38-495A2D058FEF}|ReceiverConsole\\ReceiverConsole.csproj|c:\\users\\quentin\\rabbitmq-course\\receiverconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D368F137-2D3E-4197-BC38-495A2D058FEF}|ReceiverConsole\\ReceiverConsole.csproj|solutionrelative:receiverconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A46B00-7848-4760-83DE-E964885C3048}|Receiver\\Receiver.csproj|c:\\users\\quentin\\rabbitmq-course\\receiver\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A46B00-7848-4760-83DE-E964885C3048}|Receiver\\Receiver.csproj|solutionrelative:receiver\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8191F035-358B-4987-937A-7EDAC8BC4EC2}|Producer\\Producer.csproj|c:\\users\\quentin\\rabbitmq-course\\producer\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8191F035-358B-4987-937A-7EDAC8BC4EC2}|Producer\\Producer.csproj|solutionrelative:producer\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A642F90F-0CD9-48F9-B040-76651ACBF9FA}|ProducerConsole\\ProducerConsole.csproj|c:\\users\\quentin\\rabbitmq-course\\producerconsole\\producerconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A642F90F-0CD9-48F9-B040-76651ACBF9FA}|ProducerConsole\\ProducerConsole.csproj|solutionrelative:producerconsole\\producerconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8191F035-358B-4987-937A-7EDAC8BC4EC2}|Producer\\Producer.csproj|c:\\users\\quentin\\rabbitmq-course\\producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8191F035-358B-4987-937A-7EDAC8BC4EC2}|Producer\\Producer.csproj|solutionrelative:producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6673038F-793D-4C73-AB57-DFE59AEE03BC}|\u00C9l\u00E9ments de solution{6673038F-793D-4C73-AB57-DFE59AEE03BC}|C:\\Users\\quentin\\RabbiTMQ-Course\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6673038F-793D-4C73-AB57-DFE59AEE03BC}|\u00C9l\u00E9ments de solution{6673038F-793D-4C73-AB57-DFE59AEE03BC}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProducerConsole",
+              "DocumentMoniker": "C:\\Users\\quentin\\RabbiTMQ-Course\\ProducerConsole\\ProducerConsole.csproj",
+              "RelativeDocumentMoniker": "ProducerConsole\\ProducerConsole.csproj",
+              "ToolTip": "C:\\Users\\quentin\\RabbiTMQ-Course\\ProducerConsole\\ProducerConsole.csproj",
+              "RelativeToolTip": "ProducerConsole\\ProducerConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T13:16:37.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\RabbiTMQ-Course\\ProducerConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ProducerConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\quentin\\RabbiTMQ-Course\\ProducerConsole\\Program.cs",
+              "RelativeToolTip": "ProducerConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:15:48.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\RabbiTMQ-Course\\ReceiverConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ReceiverConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\quentin\\RabbiTMQ-Course\\ReceiverConsole\\Program.cs",
+              "RelativeToolTip": "ReceiverConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:15:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\RabbiTMQ-Course\\Receiver\\Class1.cs",
+              "RelativeDocumentMoniker": "Receiver\\Class1.cs",
+              "ToolTip": "C:\\Users\\quentin\\RabbiTMQ-Course\\Receiver\\Class1.cs",
+              "RelativeToolTip": "Receiver\\Class1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:00:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producer",
+              "DocumentMoniker": "C:\\Users\\quentin\\RabbiTMQ-Course\\Producer\\Producer.csproj",
+              "RelativeDocumentMoniker": "Producer\\Producer.csproj",
+              "ToolTip": "C:\\Users\\quentin\\RabbiTMQ-Course\\Producer\\Producer.csproj",
+              "RelativeToolTip": "Producer\\Producer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T12:14:30.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sender.cs",
+              "DocumentMoniker": "C:\\Users\\quentin\\RabbiTMQ-Course\\Producer\\Sender.cs",
+              "RelativeDocumentMoniker": "Producer\\Sender.cs",
+              "ToolTip": "C:\\Users\\quentin\\RabbiTMQ-Course\\Producer\\Sender.cs",
+              "RelativeToolTip": "Producer\\Sender.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:14:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\quentin\\RabbiTMQ-Course\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\quentin\\RabbiTMQ-Course\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-24T12:12:16.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 407,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
