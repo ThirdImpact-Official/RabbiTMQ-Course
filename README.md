@@ -23,7 +23,7 @@ Le projet **RabbiTMQ-Course** est une initiation à RabbitMQ, conçu pour aider 
 
 2. Exécutez Docker :
  ```bash
- docker-compose up
+ docker-compose up rabbitMq
  ```
 
 ## Utilisation
